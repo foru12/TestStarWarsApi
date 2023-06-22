@@ -6,8 +6,7 @@
 _____
 
 
-### Main search
-page
+### Main search page
 ![photo_2023-06-22_20-36-15](https://github.com/foru12/TestStarWarsApi/assets/72025140/4ea99959-f95f-4381-b34b-1508ba73b23b)
 
 ###
